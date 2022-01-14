@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/deploy-github/static/css/main.0f035f20.css",
-    "main.js": "/deploy-github/static/js/main.90dd185c.js",
-    "static/js/787.edd59a96.chunk.js": "/deploy-github/static/js/787.edd59a96.chunk.js",
-    "static/media/img_router1.png": "/deploy-github/static/media/img_router1.add2508f1d2cefbdb3fb.png",
-    "static/media/anh2.jpg": "/deploy-github/static/media/anh2.02be0e2358f25f027209.jpg",
-    "static/media/slide1.jpg": "/deploy-github/static/media/slide1.38454e1471ebc862421f.jpg",
-    "static/media/routter-2.jpg": "/deploy-github/static/media/routter-2.cd6869b98ebdcc9dcd0a.jpg",
-    "static/media/co-nhat.webp": "/deploy-github/static/media/co-nhat.10de876be464164d4645.webp",
-    "index.html": "/deploy-github/index.html",
-    "main.0f035f20.css.map": "/deploy-github/static/css/main.0f035f20.css.map",
-    "main.90dd185c.js.map": "/deploy-github/static/js/main.90dd185c.js.map",
-    "787.edd59a96.chunk.js.map": "/deploy-github/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "/BaiTap_Router1/static/css/main.c1dad029.css",
+    "main.js": "/BaiTap_Router1/static/js/main.c6215b69.js",
+    "static/js/787.edd59a96.chunk.js": "/BaiTap_Router1/static/js/787.edd59a96.chunk.js",
+    "static/media/img_router1.png": "/BaiTap_Router1/static/media/img_router1.add2508f1d2cefbdb3fb.png",
+    "static/media/anh2.jpg": "/BaiTap_Router1/static/media/anh2.02be0e2358f25f027209.jpg",
+    "static/media/slide1.jpg": "/BaiTap_Router1/static/media/slide1.38454e1471ebc862421f.jpg",
+    "static/media/routter-2.jpg": "/BaiTap_Router1/static/media/routter-2.cd6869b98ebdcc9dcd0a.jpg",
+    "static/media/co-nhat.webp": "/BaiTap_Router1/static/media/co-nhat.10de876be464164d4645.webp",
+    "index.html": "/BaiTap_Router1/index.html",
+    "main.c1dad029.css.map": "/BaiTap_Router1/static/css/main.c1dad029.css.map",
+    "main.c6215b69.js.map": "/BaiTap_Router1/static/js/main.c6215b69.js.map",
+    "787.edd59a96.chunk.js.map": "/BaiTap_Router1/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f035f20.css",
-    "static/js/main.90dd185c.js"
+    "static/css/main.c1dad029.css",
+    "static/js/main.c6215b69.js"
   ]
 }
