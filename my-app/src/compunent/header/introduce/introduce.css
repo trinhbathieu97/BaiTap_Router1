@@ -1,0 +1,45 @@
+
+
+#Introduce{
+    position: relative;
+    z-index: 312123;
+    color: #fff;
+    top: 180px;
+}
+
+.Introduce_list-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Introduce_list-link>img{
+    width: 37px;
+    height: 10px;
+}
+.Introduce_list-link>h3{
+    margin: 0 15px;
+}
+.Introduce_list>h2{
+    font-size: 42px;
+    margin: auto;
+    max-width: 656px;
+    text-align: center;
+}
+.Introduce_list>p{
+    text-align: center;
+}
+.iconLefft{
+    position: absolute;
+    top: 10%;
+    left: 50px;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.iconRight{
+    position: absolute;
+    top: 10%;
+    right: 50px;
+    font-size: 30px;
+    padding: 30px;
+}

@@ -1,0 +1,42 @@
+#NavBar{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0  20px;
+    position: absolute;
+    position: relative;
+    z-index: 2;
+}
+.Nav_text{
+    display: flex;
+    align-items: center;
+}
+.Nav_list>li{
+    padding-left: 30px;
+}
+.Nav_list>li>img{
+    height: 18px;
+    width: 26px;
+}
+.Nav_list{
+    display: flex;
+    color: #fff;
+    list-style-type: none;
+}
+.list_children--nav{
+    background-color: #52b8cb;
+    position: absolute;
+    list-style-type: none;
+    padding: 0;
+    display: none;
+    border-radius: 3px;
+}
+.list_children--nav>li{
+    padding: 10px 15px;
+}
+.list_children--nav>li:hover{
+    background-color: #5edafa;
+}
+.hover:hover  ul {
+    display: block;
+}

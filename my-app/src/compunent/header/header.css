@@ -1,0 +1,29 @@
+.header1{
+   background-image: url("../imgApp/slide1.jpg");
+   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+    height: 668px;
+    position: relative;
+  
+}
+
+.header2{
+  background-image: url("../imgApp/anh2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 668px;
+  position: relative;
+ 
+}
+
+.color_APP{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgb(33, 37, 41);
+  opacity: 0.8;
+}
